@@ -6,7 +6,7 @@
 
 -> AE learns the underlying patterns in data and represent them in latent space 
 
-![Alt text](https://github.com/kris-mlguy/Autoencoders/blob/main/AE_image.PNG?raw=true "Optional Title")
+![Alt text](https://github.com/kris-mlguy/Autoencoders/blob/main/image.PNG?raw=true "Optional Title")
 
 ### Applications include  
     1. Feature extraction  
@@ -32,4 +32,4 @@
     5. Install jupyter notebook library: conda install jupyter notebook
     6. Install other dependent libraries: pip install -r requirements.txt
     7. Open jupyter notebook: jupyter notebook
-    8. Above step will open jupyter notebook in a browser. Open the <requiredNotebook>.ipynb and run it cell-by-cell to see the working of autoencoders
+    8. Above step will open jupyter notebook in a browser. Open the <required_notebook>.ipynb and run it cell-by-cell to see the working of autoencoders
