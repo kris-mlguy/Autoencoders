@@ -6,7 +6,7 @@
 
 -> AE learns the underlying patterns in data and represent them in latent space 
 
-![Alt text](AE_image.png?raw=true "Optional Title")
+![Alt text](https://github.com/kris-mlguy/Autoencoders/blob/main/AE_image.PNG?raw=true "Optional Title")
 
 -> Different types of autoencoders  
     i. Denoising autoencoder  
